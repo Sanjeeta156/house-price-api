@@ -51,4 +51,4 @@ Prediction Response
 
 ## Prediction API Response
 
-![Prediction Response](screenshots/prediction-response.png)
+![Prediction Response](./screenshots/prediction-response.png)
