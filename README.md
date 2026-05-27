@@ -48,3 +48,7 @@ XGBoost ML Model
      ↓
 Prediction Response
 ```
+
+## Prediction API Response
+
+![Prediction Response](screenshots/prediction-response.png)
